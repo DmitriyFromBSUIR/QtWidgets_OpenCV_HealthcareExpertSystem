@@ -1,0 +1,2 @@
+# QtWidgets_OpenCV_HealthcareExpertSystem
+Diploma Project
